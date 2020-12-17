@@ -2,7 +2,7 @@
 Program is given in debug_exam.py and Instructions are given in ReadMe file.
 # Fork the repository and commit the changes.
 # Answers should be given for all three questions here.
- a) def uniqueUpdate(data1, data2):
+ 5.b) def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
 
@@ -26,7 +26,7 @@ Program is given in debug_exam.py and Instructions are given in ReadMe file.
     # After processing all (k, v2) in
     # data2, return the dictionary
     return dupKeys
-b)     
+5.a)    
 if k in data1:
             v1 = data1[k]
         if v1 != v2:
